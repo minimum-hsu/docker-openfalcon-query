@@ -13,5 +13,16 @@
         "cluster": {
             "graph-00": "127.0.0.1:6070"
         }
+    },
+    "api": {
+        "name": "event_server",
+        "token": "token",
+        "url": "http://api.example.com/event"
+    },
+    "database": {
+        "ip": "127.0.0.1",
+        "port": "3306",
+        "account": "root",
+        "password": ""
     }
 }
